@@ -1,0 +1,11 @@
+<!-- Fichero datos_listado.xml -->
+<listado>Listado de Notas
+	<asignatura nombre="Estructuras de Datos II" curso="04-05" plan="1996">
+</asignatura>
+<fecha formato="dd/mm/aa">02/02/05</fecha>
+<notas>
+	<alumno nombre="Jose Gonzalez Perez" dni="20094785" nota="8.5"></alumno>
+	<alumno nombre="Juan Garcia Perez" dni="70898989" nota="7.8"></alumno>
+	<alumno nombre="Antonio Blanco Moreno" dni="89859999" nota="5.0"></alumno>
+</notas>
+</listado>
