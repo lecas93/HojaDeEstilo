@@ -7,5 +7,3 @@ Para este proyecto hemos trabajado con los archivos [`datos.xml`](https://github
 
 ## ¿Cómo funciona?
 El programa únicamente necesita recibir como parámetros de entrada dos argumentos donde se indican el nombre de los archivos XML y PL (en ese orden respectivamente) para poder generar el archivo HTML.
-
-**Es importante mencionar que los archivos de entrada deben estar ubicados en la misma carpeta que el programa.**
